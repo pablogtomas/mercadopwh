@@ -5,7 +5,7 @@ header('Content-Type: application/json; charset=utf-8');
 
 // Conexión a la base de datos (HARD-CODE)
 $host     = "66.97.43.58";
-$dbname   = "testwebhook";
+$dbname   = "testing";
 $username = "gaston";
 $password = "campo40164234";
 $port     = 3306;
